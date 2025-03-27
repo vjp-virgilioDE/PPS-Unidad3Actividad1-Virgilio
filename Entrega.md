@@ -31,3 +31,32 @@ Localhost:81
 ## Ldap
 
 ![](/Entrega/Imagen8.png)
+
+
+## Entorno de pruebas
+
+Paramos el docker que ya teniamos
+
+![](/Entrega/Imagen9.png)
+
+Nos descargamos el nuevo docker-compose.yml y sample.env
+
+![](/Entrega/Imagen10.png)
+
+Entramos en el docker.compose.yml y en el sample.env, vemos los puertos.
+
+![](/Entrega/Imagen11.png)
+
+![](/Entrega/Imagen12.png)
+
+Para una mayor seguridad , deberiamos cambiar el puerto de las maquinas, y cambiar el usuario y contraseña.
+
+![](/Entrega/Imagen13.png.png)
+
+Iniciamos el entorno de pruebas
+
+![](/Entrega/Imagen14.png)
+
+Vemos que todo se ha levantado correctamente
+
+![](/Entrega/Imagen15.png)
