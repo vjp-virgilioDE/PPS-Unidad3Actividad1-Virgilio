@@ -39,7 +39,7 @@ Paramos el docker que ya teniamos
 
 ![](/Entrega/Imagen9.png)
 
-Nos descargamos el nuevo docker-compose.yml y sample.env
+Nos clonamos el repositorio donde se encuentra el entorno de pruebas
 
 ![](/Entrega/Imagen10.png)
 
@@ -51,7 +51,7 @@ Entramos en el docker.compose.yml y en el sample.env, vemos los puertos.
 
 Para una mayor seguridad , deberiamos cambiar el puerto de las maquinas, y cambiar el usuario y contraseña.
 
-![](/Entrega/Imagen13.png.png)
+![](/Entrega/Imagen13.png)
 
 Iniciamos el entorno de pruebas
 
